@@ -13,7 +13,6 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1",
     "bootstrap": "^5.0.1",
-    "node-sass": "^6.0.0",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
   },
